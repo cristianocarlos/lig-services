@@ -3,3 +3,5 @@
 
 - Spreadsheet Extract
   - Cron para limpar DB e Cloudinary
+
+- Criar Cloudinary Liggo
